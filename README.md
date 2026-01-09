@@ -148,5 +148,6 @@ MIT License
 ## Contact
 
 **Author:** Murilo Rosa  
-**GitHub:** https://github.com/yourusername  
+**GitHub:** https://github.com/yMugrelo/Movie_Re
 **Live Demo:** https://movie-rec.streamlit.app
+
